@@ -5,7 +5,6 @@
 - 📫 How to reach me ...
 
 ![CodeChef Stats](https://codechef-readme-stats.onrender.com/himanshu2208v?v=1)
-[![Himanshu's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Himanshu2208&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <!---
 HimanshuV2208/HimanshuV2208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
