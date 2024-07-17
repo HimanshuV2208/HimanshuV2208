@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 
 ![CodeChef Stats](https://codechef-readme-stats.onrender.com/himanshu2208v?v=1)
+![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=himanshu2208&theme=1)
 
 <!---
 HimanshuV2208/HimanshuV2208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
